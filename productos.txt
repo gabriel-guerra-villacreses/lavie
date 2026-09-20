@@ -1,0 +1,55 @@
+===
+id: gotas-manzanilla-tila
+nombre: Gotas de Manzanilla & Tila
+categoria: Sueño
+imagen: gotas-manzanilla-tila.jpg
+para_que_sirve: Para conciliar el sueño de forma natural, ideal si te cuesta relajarte antes de dormir.
+contiene: Manzanilla, tila y pasiflora en dilución homeopática, base glicerinada.
+modo_uso: Tomar 15 gotas diluidas en agua, 30 minutos antes de dormir.
+precio: 18
+===
+id: tintura-valeriana-compuesta
+nombre: Tintura de Valeriana Compuesta
+categoria: Estrés
+imagen: tintura-valeriana.jpg
+para_que_sirve: Para el estrés diario, ayuda a bajar la tensión nerviosa sin dejarte con sueño de más.
+contiene: Valeriana, toronjil y espino blanco macerados en alcohol de caña.
+modo_uso: Tomar 20 gotas diluidas en agua, hasta 2 veces al día.
+precio: 21
+===
+id: jarabe-tomillo-propoleo
+nombre: Jarabe de Tomillo & Própoleo
+categoria: Respiratorio
+imagen: jarabe-tomillo-propoleo.jpg
+para_que_sirve: Para aliviar la tos seca y calmar la garganta irritada.
+contiene: Extracto de tomillo, própoleo y miel de abeja pura.
+modo_uso: Tomar 1 cucharada 3 veces al día, después de las comidas.
+precio: 15
+===
+id: capsulas-cardo-mariano
+nombre: Cápsulas de Cardo Mariano
+categoria: Digestivo
+imagen: capsulas-cardo-mariano.jpg
+para_que_sirve: Para apoyar la función hepática y la digestión pesada.
+contiene: Extracto seco de cardo mariano estandarizado al 80% de silimarina.
+modo_uso: Tomar 1 cápsula junto con la comida principal del día.
+precio: 24
+===
+id: gel-arnica-mentol
+nombre: Gel de Árnica & Mentol
+categoria: Dolor muscular
+imagen: gel-arnica-mentol.jpg
+para_que_sirve: Para aliviar dolores musculares, golpes leves y tensión después del ejercicio.
+contiene: Árnica montana, mentol natural y aceite esencial de eucalipto.
+modo_uso: Aplicar sobre la zona afectada y masajear suavemente, 2 a 3 veces al día.
+precio: 16
+===
+id: te-manzanilla-hinojo
+nombre: Té de Manzanilla & Hinojo
+categoria: Digestivo
+imagen: te-manzanilla-hinojo.jpg
+para_que_sirve: Para aliviar la hinchazón y las molestias digestivas después de comer.
+contiene: Flores de manzanilla y semillas de hinojo seleccionadas a mano.
+modo_uso: Preparar en infusión durante 5 minutos y tomar después de las comidas.
+precio: 9
+===
